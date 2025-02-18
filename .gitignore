@@ -1,0 +1,9 @@
+# Ignore large data files
+*.csv
+*.npy
+*.h5
+*.png
+*.jpg
+/preprocessed/
+/MNIST/
+
